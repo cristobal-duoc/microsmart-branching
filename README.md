@@ -1,14 +1,8 @@
 \# MicroSmart
 
-
-
-Proyecto simulado de MicroSmart para evidenciar branching y modularidad.
-
-
+Proyecto simulado de MicroSmart para demostrar branching, modularidad y control de versiones.
 
 \## Componentes
-
-
 
 \- frontend-web
 
@@ -19,4 +13,3 @@ Proyecto simulado de MicroSmart para evidenciar branching y modularidad.
 \- backend-personalizacion
 
 \- docs
-
