@@ -2,7 +2,7 @@
 
 
 
-Proyecto simulado para la actividad 2.3.2 de estrategias de branching.
+Proyecto base de MicroSmart para demostrar ramas, commits y merges.
 
 
 
@@ -19,6 +19,4 @@ Proyecto simulado para la actividad 2.3.2 de estrategias de branching.
 \- backend-personalizacion
 
 \- docs
-
-
 
